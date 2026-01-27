@@ -104,7 +104,7 @@ A collection of CLI tools written in Bash and Lua to automate workflows.
 
 <p align="center">
   ✉️ Email: <em>contact.ocampo.info@gmail.com</em> <br>
-  🌐 Portfolio: <em>brayanocampo.vercel.app</em>
+  🌐 Portfolio: [Click Here](https://brayanocampo.vercel.app)
 </p>
 
 ---
