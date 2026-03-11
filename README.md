@@ -1,112 +1,82 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/DPVMO9X.png" width="80%" alt="Banner">
-</p>
+<div align="center">
+  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBvd2I1NGxnMGJteWU0djN0dWgxMWVhMDNwaWNlcWEzb3V0M3gwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif"  />
+</div>
 
-<h1 align="center">👋 Hey, I'm <strong>OcampoNotFound</strong></h1>
+###
 
-<p align="center">
-  💻 Developer • 🐧 Linux Enthusiast • ⚙️ Constant Experimenter<br>
-  Always building, breaking, and learning something new.
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/brayan-ocampo-lopez" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
----
+###
 
-## <p align="center">🧑‍💻 About Me</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=devaspepito06.devaspepito06&"  />
+</div>
 
-<p align="center">
-I'm a developer passionate about Linux, open-source software, and creating projects that blend simplicity, performance, and clean aesthetics.<br><br>
-I enjoy working on both frontend and backend, customizing systems, automating tasks, and building efficient solutions with a minimalist style.  
-</p>
+###
 
----
+<h1 align="center">hey there!</h1>
 
-## <p align="center">🛠️ Technologies I Use</p>
+###
 
-### <p align="center">🐧 Operating Systems</p>
+<h3 align="left">:-) About Me</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
-</p>
+###
 
----
+<p align="left">I'm from Colombia<br><br>- I’m working as freelancer<br>- I'm currently learning dart and software engineering<br>- In my free time I watch anime and Play metroidvania games</p>
 
-### <p align="center">🎨 Frontend</p>
+###
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
+<h3 align="left">🛠 Language and tools</h3>
 
----
+###
 
-### <p align="center">⚙️ Backend</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+###
 
----
+<h3 align="left">🔥   My Stats :</h3>
 
-### <p align="center">🔧 Other Languages</p>
+###
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=devaspepito06&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devaspepito06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-## <p align="center">🚀 Featured Projects</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devaspepito06/devaspepito06/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devaspepito06/devaspepito06/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/devaspepito06/devaspepito06/output/pacman-contribution-graph.svg">
+</picture>
 
-<p align="center">
-
-### 🔹 <strong>Project 1 — Mangora UI</strong>  
-A modern UI inspired by Japanese aesthetics, built with React + Tailwind.  
-🔗 *Coming soon…*
-
-### 🔹 <strong>Project 2 — Linux Dotfiles</strong>  
-My personal Linux setup (Arch). i3, zsh, neovim, scripts, and tweaks.  
-🔗 *Coming soon…*
-
-### 🔹 <strong>Project 3 — Script Manager</strong>  
-A collection of CLI tools written in Bash and Lua to automate workflows.  
-🔗 *Coming soon…*
-
-</p>
-
----
-
-## <p align="center">📊 GitHub Stats</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OcampoNotFound&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OcampoNotFound&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## <p align="center">📫 Contact</p>
-
-<p align="center">
-  ✉️ Email: <em>contact.ocampo.info@gmail.com</em> <br>
-  🌐 Portfolio: https://anonymouzport.vercel.app
-</p>
-
----
-
-<p align="center"><em>"Code is a journey, not a destination."</em></p>
+###
