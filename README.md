@@ -1,3 +1,4 @@
+
 <div align="center">
   <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBvd2I1NGxnMGJteWU0djN0dWgxMWVhMDNwaWNlcWEzb3V0M3gwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif"  />
 </div>
@@ -113,3 +114,11 @@
 </div>
 
 ###
+
+
+
+### ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=github_dark" />
+</div>
