@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm from Colombia<br><br>- I’m working as freelancer<br>- I'm currently learning dart and software engineering<br>- In my free time I watch anime and Play metroidvania games</p>
+<p align="left">I'm from Colombia<br><br>- I’m working as freelancer<br>- I'm currently learning dart and some of cybersecurity by my self<br>- In my free time I watch anime and Play metroidvania games</p>
 
 ###
 
