@@ -1,4 +1,3 @@
-
 <div align="center">
   <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBvd2I1NGxnMGJteWU0djN0dWgxMWVhMDNwaWNlcWEzb3V0M3gwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif"  />
 </div>
@@ -6,28 +5,23 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/brayan-ocampo-lopez" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
 
-###
+<h3>Connnect with me</h3>
+
+[![AboutMe](https://img.shields.io/badge/ABOUT_ME-000000?style=for-the-badge&logo=archlinux&logoColor=white)](https://about-thedarkmrx.vercel.app/)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/joaninnn)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brayan-ocampo-lopez)
+
+</div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=devaspepito06.devaspepito06&"  />
+
+<h3>About Me</h3>
+
+Hello, I'm **Brayan Ocampo** a Frontend Developer focused on building simple, clean, minimal, scalable and modern web applications.
+I value simple and organized structure, good performance, minimalism, and long-term maintainability over hype.
+
 </div>
-
-###
-
-<h1 align="center">hey there!</h1>
-
-###
-
-<h3 align="left">:-) About Me</h3>
-
-###
-
-<p align="left">I'm from Colombia<br><br>- I’m working as freelancer<br>- I'm currently learning dart and some of cybersecurity by my self<br>- In my free time I watch anime and Play metroidvania games</p>
 
 ###
 
@@ -115,8 +109,6 @@
 </div>
 
 ###
-
-
 
 ### ✍️ Random Dev Quote
 
