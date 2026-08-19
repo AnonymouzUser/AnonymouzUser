@@ -2,8 +2,7 @@
   <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBvd2I1NGxnMGJteWU0djN0dWgxMWVhMDNwaWNlcWEzb3V0M3gwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif"  />
 </div>
 
-###
-
+---
 <div align="center">
 
 <h3>Connnect with me</h3>
@@ -18,7 +17,7 @@
 
 <h3>About Me</h3>
 
-Hello, I'm **Brayan Ocampo** a Frontend Developer focused on building simple, clean, minimal, scalable and modern web applications.
+Hello, I'm **Brayan Ocampo** a Frontend Developer focused on building simple, clean, minimal, scalable and modern web applications.<br/>
 I value simple and organized structure, good performance, minimalism, and long-term maintainability over hype.
 
 </div>
