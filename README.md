@@ -3,6 +3,7 @@
 </div>
 
 ---
+
 <div align="center">
 
 <h3>Connnect with me</h3>
@@ -13,104 +14,139 @@
 
 </div>
 
+---
+
 <div align="center">
 
 <h3>About Me</h3>
 
-Hello, I'm **Brayan Ocampo** a Frontend Developer focused on building simple, clean, minimal, scalable and modern web applications.<br/>
+Hello, I'm **Brayan Ocampo** a Frontend and Backend Developer focused on building simple, clean, minimal, scalable and modern web applications.
 I value simple and organized structure, good performance, minimalism, and long-term maintainability over hype.
 
 </div>
 
-###
-
-<details>
-<summary><h3 >🛠 Language and tools</h3></summary>
-
-<br>
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-
 ---
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
----
-
-**Styling**
-
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
----
-
-**Backend**
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
----
-
-**Databases**
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
----
-
-**DevOps & Deployment**
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-**Tools**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-</details>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=itssolome&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <br>
-          <img src="https://gh-readme-profile.vercel.app/api?username=itssolome&bg_color=151515&title_color=8da3b9&text_color=bfb6b6&icon_color=8b5f95&border_color=607e9a&stroke_color=bfb6b6&username_color=da9697" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devaspepito06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+<h2>Technologies</h2>
+
+<h3>Core Tools</h3>
+
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)
+![Insomnia](https://img.shields.io/badge/INSOMNIA-000000?style=for-the-badge&logo=insomnia&logoColor=white)
+![Figma](https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=white)
+
+
+<h3>Frontend</h3>
+
+**Core Technologies**
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=white)
+![Sass](https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frameworks and Libraries**
+
+![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white)
+![Next JS](https://img.shields.io/badge/NEXT-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-000000?style=for-the-badge&logo=react-router&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chakra](https://img.shields.io/badge/CHAKRA-000000?style=for-the-badge&logo=chakraui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<h3>Backend</h3>
+
+**Core Technologies**
+
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
+![Lua](https://img.shields.io/badge/LUA-000000?style=for-the-badge&logo=lua&logoColor=white)
+
+**Frameworks, Libraries and Tools**
+
+![NodeJS](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![Postgres](https://img.shields.io/badge/POSTGRES-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLITE-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<h3>DevOps and Deployment</h3>
+
+![Vercel](https://img.shields.io/badge/VERCEL-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/SUPABASE-000000?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-000000?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/NGINX-000000?style=for-the-badge&logo=nginx&logoColor=white)
+
 </div>
 
-###
+---
+
+<div align="center">
+
+<h2>Statistics</h2>
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <h4>Most Used Languages</h4>
+  <img 
+    src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=thedarkmrx&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8"
+    alt="Top Languages"
+  />
+</td>
+<td width="50%" align="center">
+  <h4>GitHub Stats</h4>
+  <img 
+    src="https://github-readme-stats-two-beta-28.vercel.app/api?username=thedarkmrx&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+    alt="GitHub Stats"
+  />
+</td>
+</tr>
+</table>
+
+<h3>Contribution Streak</h3>
+
+<img 
+  src="https://streak-stats.demolab.com?user=thedarkmrx&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
+  alt="GitHub Streak"
+/>
+
+<h3>Contribution Graph</h3>
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=thedarkmrx&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Nurmuhammet%20Altybaev's%20Contribution%20Graph"
+  alt="Activity Graph"
+  width="100%"
+/>
+
+</div>
+
+---
+
+<div align="center">
 
 ### ✍️ Random Dev Quote
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=github_dark" />
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
+
+---
+
+<h3>Visitor Count</h3>
+
+![](https://komarev.com/ghpvc/?username=thedarkmrx&color=000000&style=flat-square&label=Profile+Views)
+
+---
+
+<sub>By <a href="https://github.com/thedarkmrx">Ocampo</a> with ❤️</sub>
+
 </div>
+
+
+
