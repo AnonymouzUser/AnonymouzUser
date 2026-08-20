@@ -21,6 +21,7 @@
 <h3>About Me</h3>
 
 Hello, I'm **Brayan Ocampo** a Frontend and Backend Developer focused on building simple, clean, minimal, scalable and modern web applications.
+
 I value simple and organized structure, good performance, minimalism, and long-term maintainability over hype.
 
 </div>
