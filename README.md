@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBvd2I1NGxnMGJteWU0djN0dWgxMWVhMDNwaWNlcWEzb3V0M3gwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif"  />
+  <img src="./Banner.png"  />
 </div>
 
 ---
@@ -39,7 +39,6 @@ I value simple and organized structure, good performance, minimalism, and long-t
 ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/INSOMNIA-000000?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Figma](https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=white)
-
 
 <h3>Frontend</h3>
 
@@ -149,6 +148,3 @@ I value simple and organized structure, good performance, minimalism, and long-t
 <sub>By <a href="https://github.com/thedarkmrx">Ocampo</a> with ❤️</sub>
 
 </div>
-
-
-
